@@ -1,0 +1,9 @@
+Loading reconstruction: /mnt/user-data/uploads/Documents/CV5570_lab/out/courtyard_2dgs_surfstrict.ply
+Loading scan: /mnt/user-data/uploads/Documents/CV5570_lab/out/gt/courtyard/scan2.ply
+Loading scan: /mnt/user-data/uploads/Documents/CV5570_lab/out/gt/courtyard/scan1.ply
+Computing completeness
+Computing accuracy
+Tolerances: 0.01 0.02 0.05 0.1 0.2 0.5
+Completenesses: 0.0204894 0.0475426 0.140132 0.238827 0.364484 0.567235
+Accuracies: 0.218501 0.313603 0.455809 0.592074 0.737617 0.901217
+F1-scores: 0.0374655 0.0825678 0.214362 0.340361 0.487885 0.696246

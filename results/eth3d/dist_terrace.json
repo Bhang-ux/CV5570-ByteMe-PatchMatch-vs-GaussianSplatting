@@ -1,0 +1,93 @@
+{
+ "patchmatch": {
+  "n_eval": 220716,
+  "share_beyond_50cm": 0.02618133686300461,
+  "E50_mm": 7.122340100440352,
+  "U95_mm": 135.93762005807724,
+  "verdicts": {
+   "ACI117 section <=300mm (+10/-6)": "INADEQUATE",
+   "IS456 section (+12/-6)": "INADEQUATE",
+   "ACI117 section 300-900mm (+13/-10)": "INADEQUATE",
+   "ACI117 opening (+/-13)": "INADEQUATE",
+   "ACI117 plumb (+/-25)": "INADEQUATE"
+  }
+ },
+ "3dgs_surface": {
+  "n_eval": 72780,
+  "share_beyond_50cm": 0.30915994304698624,
+  "E50_mm": 147.5123201056505,
+  "U95_mm": 437.0548237161234,
+  "verdicts": {
+   "ACI117 section <=300mm (+10/-6)": "INADEQUATE",
+   "IS456 section (+12/-6)": "INADEQUATE",
+   "ACI117 section 300-900mm (+13/-10)": "INADEQUATE",
+   "ACI117 opening (+/-13)": "INADEQUATE",
+   "ACI117 plumb (+/-25)": "INADEQUATE"
+  }
+ },
+ "3dgs_surfstrict": {
+  "n_eval": 26508,
+  "share_beyond_50cm": 0.037018200312420535,
+  "E50_mm": 32.85291219905007,
+  "U95_mm": 232.93077870967124,
+  "verdicts": {
+   "ACI117 section <=300mm (+10/-6)": "INADEQUATE",
+   "IS456 section (+12/-6)": "INADEQUATE",
+   "ACI117 section 300-900mm (+13/-10)": "INADEQUATE",
+   "ACI117 opening (+/-13)": "INADEQUATE",
+   "ACI117 plumb (+/-25)": "INADEQUATE"
+  }
+ },
+ "3dgs_centers": {
+  "n_eval": 8802,
+  "share_beyond_50cm": 0.5625248508946322,
+  "E50_mm": 103.0006664641597,
+  "U95_mm": 429.68505530352604,
+  "verdicts": {
+   "ACI117 section <=300mm (+10/-6)": "INADEQUATE",
+   "IS456 section (+12/-6)": "INADEQUATE",
+   "ACI117 section 300-900mm (+13/-10)": "INADEQUATE",
+   "ACI117 opening (+/-13)": "INADEQUATE",
+   "ACI117 plumb (+/-25)": "INADEQUATE"
+  }
+ },
+ "2dgs_surface": {
+  "n_eval": 203022,
+  "share_beyond_50cm": 0.32326,
+  "E50_mm": 109.4983052630125,
+  "U95_mm": 410.40507655657757,
+  "verdicts": {
+   "ACI117 section <=300mm (+10/-6)": "INADEQUATE",
+   "IS456 section (+12/-6)": "INADEQUATE",
+   "ACI117 section 300-900mm (+13/-10)": "INADEQUATE",
+   "ACI117 opening (+/-13)": "INADEQUATE",
+   "ACI117 plumb (+/-25)": "INADEQUATE"
+  }
+ },
+ "2dgs_surfstrict": {
+  "n_eval": 217420,
+  "share_beyond_50cm": 0.27526666666666666,
+  "E50_mm": 88.68624958427382,
+  "U95_mm": 382.8825337458583,
+  "verdicts": {
+   "ACI117 section <=300mm (+10/-6)": "INADEQUATE",
+   "IS456 section (+12/-6)": "INADEQUATE",
+   "ACI117 section 300-900mm (+13/-10)": "INADEQUATE",
+   "ACI117 opening (+/-13)": "INADEQUATE",
+   "ACI117 plumb (+/-25)": "INADEQUATE"
+  }
+ },
+ "2dgs_centers": {
+  "n_eval": 98734,
+  "share_beyond_50cm": 0.3425753913558791,
+  "E50_mm": 55.057938443008766,
+  "U95_mm": 383.8840148994644,
+  "verdicts": {
+   "ACI117 section <=300mm (+10/-6)": "INADEQUATE",
+   "IS456 section (+12/-6)": "INADEQUATE",
+   "ACI117 section 300-900mm (+13/-10)": "INADEQUATE",
+   "ACI117 opening (+/-13)": "INADEQUATE",
+   "ACI117 plumb (+/-25)": "INADEQUATE"
+  }
+ }
+}

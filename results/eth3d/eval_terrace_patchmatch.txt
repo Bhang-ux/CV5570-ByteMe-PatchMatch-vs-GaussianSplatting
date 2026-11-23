@@ -1,0 +1,9 @@
+Loading reconstruction: /mnt/user-data/uploads/Documents/CV5570_lab/out/terrace_patchmatch_fused.ply
+Loading scan: /mnt/user-data/uploads/Documents/CV5570_lab/out/gt/terrace/scan1.ply
+Loading scan: /mnt/user-data/uploads/Documents/CV5570_lab/out/gt/terrace/scan2.ply
+Computing completeness
+Computing accuracy
+Tolerances: 0.01 0.02 0.05 0.1 0.2 0.5
+Completenesses: 0.100343 0.351536 0.70392 0.82309 0.903868 0.970986
+Accuracies: 0.739286 0.885193 0.964808 0.981464 0.98879 0.995335
+F1-scores: 0.176702 0.503226 0.81397 0.895327 0.944424 0.98301

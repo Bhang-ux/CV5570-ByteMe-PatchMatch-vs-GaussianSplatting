@@ -1,0 +1,13 @@
+{
+ "umeyama_scale_err": 6.661338147750939e-16,
+ "umeyama_rot_err_deg": 2.091309789151873e-06,
+ "icp_residual_mean_mm": 4.790373171570808,
+ "icp_time_s": 0.8158514499664307,
+ "metrics_noise1cm_acc@2cm": 0.7758166666666667,
+ "metrics_noise1cm_chamfer_cm": 1.526034279833243,
+ "verdict_2mm": "ADEQUATE",
+ "verdict_20mm": "INADEQUATE",
+ "element_offset_detected_mm": 24.987367864266595,
+ "clusters_found": 1,
+ "eth3d_parse_F1@2cm": 0.64
+}

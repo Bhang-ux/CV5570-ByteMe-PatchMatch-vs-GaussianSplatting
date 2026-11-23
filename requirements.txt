@@ -1,0 +1,10 @@
+# Evaluation + figures (CPU)
+numpy>=1.24
+scipy>=1.10
+plyfile>=1.0
+matplotlib>=3.7
+nbformat>=5.9
+# Gaussian splatting training / export (GPU, CUDA 11.8+)
+torch>=2.1
+gsplat==1.5.3
+# External tools (install separately): COLMAP 3.9+ with CUDA, ETH3D multi-view evaluation

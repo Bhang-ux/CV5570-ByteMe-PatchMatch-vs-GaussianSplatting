@@ -1,0 +1,9 @@
+Loading reconstruction: /mnt/user-data/uploads/Documents/CV5570_lab/out/terrace_3dgs_centers.ply
+Loading scan: /mnt/user-data/uploads/Documents/CV5570_lab/out/gt/terrace/scan1.ply
+Loading scan: /mnt/user-data/uploads/Documents/CV5570_lab/out/gt/terrace/scan2.ply
+Computing completeness
+Computing accuracy
+Tolerances: 0.01 0.02 0.05 0.1 0.2 0.5
+Completenesses: 0.000746863 0.005002 0.0393064 0.134581 0.364276 0.791572
+Accuracies: 0.466905 0.646933 0.807954 0.878057 0.919392 0.959777
+F1-scores: 0.00149134 0.00992725 0.0749658 0.233391 0.521805 0.867597

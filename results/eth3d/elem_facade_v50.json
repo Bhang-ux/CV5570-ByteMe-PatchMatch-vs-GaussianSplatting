@@ -1,0 +1,15 @@
+{
+ "patchmatch": {
+  "elements_measured": 303,
+  "elements_total": 1078,
+  "E50_mm": 11.883264416209743,
+  "U95_mm": 52.9761297966615,
+  "verdicts": {
+   "ACI117 section <=300mm (+10/-6)": "INADEQUATE",
+   "IS456 section (+12/-6)": "INADEQUATE",
+   "ACI117 section 300-900mm (+13/-10)": "INADEQUATE",
+   "ACI117 opening (+/-13)": "INADEQUATE",
+   "ACI117 plumb (+/-25)": "INADEQUATE"
+  }
+ }
+}

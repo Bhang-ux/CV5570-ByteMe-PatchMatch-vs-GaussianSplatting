@@ -1,0 +1,9 @@
+Loading reconstruction: /mnt/user-data/uploads/Documents/CV5570_lab/out/courtyard_patchmatch_fused.ply
+Loading scan: /mnt/user-data/uploads/Documents/CV5570_lab/out/gt/courtyard/scan2.ply
+Loading scan: /mnt/user-data/uploads/Documents/CV5570_lab/out/gt/courtyard/scan1.ply
+Computing completeness
+Computing accuracy
+Tolerances: 0.01 0.02 0.05 0.1 0.2 0.5
+Completenesses: 0.0258464 0.11588 0.495789 0.712044 0.827083 0.913264
+Accuracies: 0.564075 0.744176 0.897642 0.951325 0.981694 0.991663
+F1-scores: 0.049428 0.200533 0.638771 0.814474 0.89778 0.95085

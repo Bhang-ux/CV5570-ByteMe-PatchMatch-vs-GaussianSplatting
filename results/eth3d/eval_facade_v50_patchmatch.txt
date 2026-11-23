@@ -1,0 +1,10 @@
+Loading reconstruction: /mnt/user-data/uploads/Documents/CV5570_lab/out/facade_v50_patchmatch_fused.ply
+Loading scan: /mnt/user-data/uploads/Documents/CV5570_lab/out/gt/facade/scan1.ply
+Loading scan: /mnt/user-data/uploads/Documents/CV5570_lab/out/gt/facade/scan2.ply
+Loading scan: /mnt/user-data/uploads/Documents/CV5570_lab/out/gt/facade/scan3.ply
+Computing completeness
+Computing accuracy
+Tolerances: 0.01 0.02 0.05 0.1 0.2 0.5
+Completenesses: 0.00979999 0.0564271 0.286574 0.450225 0.535099 0.620256
+Accuracies: 0.368202 0.559618 0.805414 0.920242 0.97238 0.990753
+F1-scores: 0.0190918 0.102517 0.422735 0.604634 0.690317 0.762901

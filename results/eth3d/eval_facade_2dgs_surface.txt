@@ -1,0 +1,10 @@
+Loading reconstruction: facade_2dgs_surface.ply
+Loading scan: gt/facade/scan1.ply
+Loading scan: gt/facade/scan2.ply
+Loading scan: gt/facade/scan3.ply
+Computing completeness
+Computing accuracy
+Tolerances: 0.01 0.02 0.05 0.1 0.2 0.5
+Completenesses: 0.0191622 0.0746908 0.215688 0.350921 0.503539 0.688177
+Accuracies: 0.0445248 0.0887566 0.213076 0.386186 0.627733 0.879238
+F1-scores: 0.0267933 0.0811185 0.214374 0.36771 0.558818 0.772063

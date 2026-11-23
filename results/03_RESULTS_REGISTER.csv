@@ -1,0 +1,13 @@
+date,who,run_id,method,dataset,images,resolution,hardware,runtime_min,output_file,headline_metric,notes
+2026-10-16,Shubhang,P1-SFM,COLMAP SfM (CPU),site1 frames v1,100,1024x576,Colab CPU,,04_results/phase1_sept_oct_cpu,reproj 0.664 px; 100/100 registered,
+2026-10-16,Shubhang,P1-SGBM,Rectified SGBM + fusion (CPU),site1 frames v1,100,1024x576,Colab CPU,,04_results/phase1_sept_oct_cpu/CE24B117_pointclouds.zip,"495,683 pts; scale 1.5230 m/unit",workaround for missing CUDA
+2026-10-26,Claude,C-SFM,COLMAP 3.9.1 SfM (CPU),site1 frames v2 (149),123 of 149,1014x570 undistorted,Claude workspace,15,03_processed/kaggle_data.zip,"reproj 0.686 px; 24,785 pts; track 9.33",canonical dataset for all GPU runs
+,Shubhang,K-3DGS,3DGS gsplat 1.5.3,site1 canonical,123,,Kaggle T4,,04_results/site_gs,,
+,Shubhang,K-2DGS,2DGS gsplat 1.5.3 (+normal +dist loss),site1 canonical,123,,Kaggle T4,,04_results/site_gs,,
+,Raj,K-PM,COLMAP PatchMatch + fusion,site1 canonical,123,,Kaggle T4,,04_results/site_patchmatch,,
+,Raj,K-ETH3D,PatchMatch / 3DGS / 2DGS,ETH3D facade+courtyard,,1600 max,Kaggle T4,,04_results/eth3d,,
+,Shubhang,C-ABL,all methods + ablations,ETH3D 5 scenes,,1600 max,cloud GPU,,04_results/ablations,,
+2026-10-27,Claude,EVAL-SELFTEST,harness self-test,phase-1 dense cloud + synthetic,,,Claude workspace,1,05_code/evaluation/selftest_results.json,7/7 pass; 25 mm offset measured 24.99 mm,validates the evaluation code
+2026-10-29,Claude,LAB-SITE,PatchMatch + 3DGS + 2DGS,site1 canonical,123,1024 / full,IITM lab RTX 4060,,04_results/pointclouds; site_gs/site_agreement.json,"MVS->splat median 6.2 cm (3DGS) 8.3 cm (2DGS); splat->MVS 32 / 20 cm",agreement only (no laser)
+2026-10-29,Claude,LAB-ETH3D,PatchMatch + 3DGS (MCMC 1M) + 2DGS,ETH3D facade/courtyard/terrace,76/38/23,800 px,IITM lab RTX 4060,,04_results/eth3d,"mean F1@5cm PM 0.68, 2DGS 0.31, 3DGS 0.09; element U95 PM 18-47 mm",official ETH3D evaluator
+2026-10-29,Claude,LAB-ABL,PatchMatch + 3DGS at 50% views,ETH3D facade,38,800 px,IITM lab RTX 4060,,04_results/eth3d/eval_facade_v50_*,"F1@5cm PM 0.42 (from 0.57), 3DGS 0.04 (from 0.08)",other ablations not run

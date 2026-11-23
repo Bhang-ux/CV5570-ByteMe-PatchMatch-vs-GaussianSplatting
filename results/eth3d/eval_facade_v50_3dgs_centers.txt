@@ -1,0 +1,5 @@
+Loading reconstruction: /mnt/user-data/uploads/Documents/CV5570_lab/out/facade_v50_3dgs_centers.ply
+Loading scan: /mnt/user-data/uploads/Documents/CV5570_lab/out/gt/facade/scan1.ply
+Loading scan: /mnt/user-data/uploads/Documents/CV5570_lab/out/gt/facade/scan2.ply
+Loading scan: /mnt/user-data/uploads/Documents/CV5570_lab/out/gt/facade/scan3.ply
+Computing completeness

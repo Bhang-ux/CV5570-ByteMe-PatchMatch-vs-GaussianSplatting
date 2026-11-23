@@ -1,0 +1,67 @@
+{
+ "PatchMatch": {
+  "n_eval": 297881,
+  "share_beyond_50cm": 0.00706333333333331,
+  "E50_mm": 23.746575364858394,
+  "U95_mm": 197.84495373019848,
+  "verdicts": {
+   "ACI117 section <=300mm (+10/-6)": "INADEQUATE",
+   "IS456 section (+12/-6)": "INADEQUATE",
+   "ACI117 section 300-900mm (+13/-10)": "INADEQUATE",
+   "ACI117 opening (+/-13)": "INADEQUATE",
+   "ACI117 plumb (+/-25)": "INADEQUATE"
+  }
+ },
+ "3DGS_surface": {
+  "n_eval": 107902,
+  "share_beyond_50cm": 0.6403266666666667,
+  "E50_mm": 144.80121958264104,
+  "U95_mm": 448.14942735211355,
+  "verdicts": {
+   "ACI117 section <=300mm (+10/-6)": "INADEQUATE",
+   "IS456 section (+12/-6)": "INADEQUATE",
+   "ACI117 section 300-900mm (+13/-10)": "INADEQUATE",
+   "ACI117 opening (+/-13)": "INADEQUATE",
+   "ACI117 plumb (+/-25)": "INADEQUATE"
+  }
+ },
+ "3DGS_centres": {
+  "n_eval": 44812,
+  "share_beyond_50cm": 0.38930756756020113,
+  "E50_mm": 53.806106776902936,
+  "U95_mm": 382.41084743537806,
+  "verdicts": {
+   "ACI117 section <=300mm (+10/-6)": "INADEQUATE",
+   "IS456 section (+12/-6)": "INADEQUATE",
+   "ACI117 section 300-900mm (+13/-10)": "INADEQUATE",
+   "ACI117 opening (+/-13)": "INADEQUATE",
+   "ACI117 plumb (+/-25)": "INADEQUATE"
+  }
+ },
+ "2DGS_surface": {
+  "n_eval": 281792,
+  "share_beyond_50cm": 0.06069333333333338,
+  "E50_mm": 101.78257204289926,
+  "U95_mm": 346.7499627399116,
+  "verdicts": {
+   "ACI117 section <=300mm (+10/-6)": "INADEQUATE",
+   "IS456 section (+12/-6)": "INADEQUATE",
+   "ACI117 section 300-900mm (+13/-10)": "INADEQUATE",
+   "ACI117 opening (+/-13)": "INADEQUATE",
+   "ACI117 plumb (+/-25)": "INADEQUATE"
+  }
+ },
+ "2DGS_centres": {
+  "n_eval": 132723,
+  "share_beyond_50cm": 0.55759,
+  "E50_mm": 63.546889666049864,
+  "U95_mm": 349.75064972762067,
+  "verdicts": {
+   "ACI117 section <=300mm (+10/-6)": "INADEQUATE",
+   "IS456 section (+12/-6)": "INADEQUATE",
+   "ACI117 section 300-900mm (+13/-10)": "INADEQUATE",
+   "ACI117 opening (+/-13)": "INADEQUATE",
+   "ACI117 plumb (+/-25)": "INADEQUATE"
+  }
+ }
+}
