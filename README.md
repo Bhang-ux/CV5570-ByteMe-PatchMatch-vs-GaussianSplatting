@@ -4,7 +4,7 @@
 Shubhang Agarwal (CE24B117), Raj Vardhan Waghmare (CE24B127), Shuvo Goswami (CE25M822)
 
 📄 **Report:** [`report/CV5570_ByteMe_ISARC_Report.pdf`](report/CV5570_ByteMe_ISARC_Report.pdf) (ISARC format, 8 pages)
-🎬 **Demo video:** _add YouTube link here_
+🎬 **Demo video:** https://youtu.be/_GaHp9AyzJw?si=lfwcLeGtjV6yv0tM
 
 ---
 
